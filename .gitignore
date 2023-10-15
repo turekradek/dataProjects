@@ -10,5 +10,6 @@ UsedCars/used_cars.zip
 UsedCars/*.xlsx
 UsedCars/*/*.csv
 UsedCars/*/*.xlsx
+NOTES/*
 
 
