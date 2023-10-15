@@ -1,5 +1,13 @@
-Detroit911
-MalaysiaCovid
+Detroit911/detroit_911_calls
+Detroit911/*.xlsx
+Detroit911/*/*.xlsx
+Detroit911/*/*.csv
+# Detroit911/detroit_911_calls.zip
+MalaysiaCovid/*.xlsx
+MalaysiaCovid/*/*.csv
 UsedCars/used_cars.zip
-UsedCars/used_cars_files/*
+UsedCars/*.xlsx
+UsedCars/*/*.csv
+UsedCars/*/*.xlsx
+
 

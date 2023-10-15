@@ -1,0 +1,5 @@
+greenlet==3.0.0
+polars==0.19.8
+SQLAlchemy==2.0.22
+typing_extensions==4.8.0
+XlsxWriter==3.1.7
