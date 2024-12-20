@@ -1,2 +1,2 @@
 # dataProjects
-data engienering trainning 
+data projects python pandas polar
